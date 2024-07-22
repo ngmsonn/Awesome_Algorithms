@@ -4,6 +4,7 @@ Awesome resources for learning, practicing, and researching Algorithms
 
 - [Awesome Algorithms](#awesome-algorithms)
   - [Books](#books)
+  - [Websites](#websites)
   - [Youtube](#youtube)
 
 ## Books
