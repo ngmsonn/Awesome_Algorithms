@@ -13,6 +13,7 @@ Awesome resources for learning, practicing, and researching Algorithms
 * [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 * [Introduction to the Analysis of Algorithms](https://www.amazon.com/Introduction-Analysis-Algorithms-2nd-Edition/dp/032190575X)
 * [Intelligent Optimization: Principles, Algorithms and Applications](https://link.springer.com/book/10.1007/978-981-97-3286-9)
+* [Solving Optimization Problems with the Heuristic Kalman Algorithm: New Stochastic Methods](https://link.springer.com/book/10.1007/978-3-031-52459-2)
 
 ## Youtube
 * [MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
