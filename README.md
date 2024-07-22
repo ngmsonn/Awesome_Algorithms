@@ -13,3 +13,4 @@ Awesome resources for learning, practicing, and researching Algorithms
 ## Youtube - Videos
 * [MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 * [Data Structures and Algorithms with Visualizations - Full Course (Java)](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
+* [Data Structures & Algorithms in Python - The Complete Pathway](https://youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R)
