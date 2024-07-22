@@ -28,5 +28,6 @@ Awesome resources for learning, practicing, and researching Algorithms
 * [COMPSCI 224 Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 * [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&pp=ygUeZGF0YSBzdHJ1Y3R1cmVzIGFuZCBhbGdvcml0aG1z)
 * [CS Dojo Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
+* [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 * [Algorithmic Trading Using Python - Full Course](https://www.youtube.com/watch?v=xfzGZB4HhEE)
    
