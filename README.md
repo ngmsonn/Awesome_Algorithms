@@ -11,9 +11,14 @@ Awesome resources for learning, practicing, and researching Algorithms
 * [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action)
 * [Real World Algorithms: A Beginner's Guide](https://mitpress.mit.edu/books/real-world-algorithms)
 * [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+* [Data Structures and Algorithms with Python - With an Introduction to Multiprocessing](https://link.springer.com/book/10.1007/978-3-031-42209-6)
 * [Introduction to the Analysis of Algorithms](https://www.amazon.com/Introduction-Analysis-Algorithms-2nd-Edition/dp/032190575X)
 * [Intelligent Optimization: Principles, Algorithms and Applications](https://link.springer.com/book/10.1007/978-981-97-3286-9)
 * [Solving Optimization Problems with the Heuristic Kalman Algorithm: New Stochastic Methods](https://link.springer.com/book/10.1007/978-3-031-52459-2)
+
+## Websites
+* [Hello Algo](https://www.hello-algo.com/en/)
+* [Algorithms For Competitive Programming](https://cp-algorithms.com/index.html)
 
 ## Youtube
 * [MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
