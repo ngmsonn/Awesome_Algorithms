@@ -18,4 +18,4 @@ Awesome resources for learning, practicing, and researching Algorithms
 * [Data Structures and Algorithms with Visualizations - Full Course (Java)](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
 * [Data Structures & Algorithms in Python - The Complete Pathway](https://youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R)
 * [COMPSCI 224 Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
-* 
+   
