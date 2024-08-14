@@ -16,7 +16,7 @@ Awesome resources for learning, practicing, and researching Algorithms
 * [Introduction to the Analysis of Algorithms](https://www.amazon.com/Introduction-Analysis-Algorithms-2nd-Edition/dp/032190575X)
 * [Intelligent Optimization: Principles, Algorithms and Applications](https://link.springer.com/book/10.1007/978-981-97-3286-9)
 * [Solving Optimization Problems with the Heuristic Kalman Algorithm: New Stochastic Methods](https://link.springer.com/book/10.1007/978-3-031-52459-2)
-
+* [Algorithms - University of Cambridge](https://www.cl.cam.ac.uk/teaching/1415/Algorithms/2015-stajano-algs-students-handout.pdf)
 ## Websites
 * [Hello Algo](https://www.hello-algo.com/en/)
 * [Algorithms For Competitive Programming](https://cp-algorithms.com/index.html)
